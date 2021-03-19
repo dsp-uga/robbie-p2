@@ -1,5 +1,6 @@
 # Ethical Facial Recognition
 ## Team - Robbie
+The objective of this project is to design an algorithm that can determine whether a face in a given image is a male or female. 
 
 ## Installation
 * [Google Cloud Platform](https://cloud.google.com/)

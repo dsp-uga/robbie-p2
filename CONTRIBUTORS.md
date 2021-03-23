@@ -1,12 +1,12 @@
 # Contributors
 (ordered alphabetically)
 * Ruili
-  * <task>
+  * Set up the dataproc clusters and virtual machines
  
 * Shophine Sivaraja
   * Implemented built-in scikit-learn classifiers
-  * Worked on README file
-  * Documented the code and organized the repository
+  * Worked on README file and Wiki pages
 
 * Zhongliang Zhou
-  * <task>
+  * Data preparation
+  * Designing the model

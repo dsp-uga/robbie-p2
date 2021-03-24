@@ -13,7 +13,7 @@ Please see [CONTRIBUTORS](https://github.com/dsp-uga/robbie-p2/blob/master/CONTR
 
 ## Authors 
 (Ordered alphabatically)
-<ul> <li><a href= "https://github.com/RuiliF"> Ruili</a></li>
+<ul> <li><a href= "https://github.com/RuiliF"> Ruili Fang</a></li>
 <li><a href = "https://github.com/shophine"> Shophine Sivaraja</a></li>
 <li><a href ="https://github.com/Douglas2Code" > Zhongliang Zhou </a></li></ul>
 

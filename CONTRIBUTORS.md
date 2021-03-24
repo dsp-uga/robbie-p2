@@ -8,5 +8,5 @@
   * Worked on README file and Wiki pages
 
 * Zhongliang Zhou
-  *  <Tasks>
+  *  Implemented classifiers with pytorch
   *  <Tasks>

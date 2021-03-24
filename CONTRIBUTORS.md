@@ -8,5 +8,5 @@
   * Worked on README file and Wiki pages
 
 * Zhongliang Zhou
-  *  Implemented classifiers with pytorch
-  *  <Tasks>
+  *  Implemented binary classifiers with pytorch using trasfer learning
+  *  Train the convolutional neural network

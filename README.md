@@ -27,3 +27,4 @@ Please see [ETHICS](https://github.com/dsp-uga/robbie-p2/blob/master/ETHICS.md) 
 * [Tensorflow](https://www.tensorflow.org/tutorials/images/classification) - Image Classification
 * [Scikit-Learn](https://scikit-learn.org/) - Built-in Classifiers
 * [Machine Learning with PySpark and MLlib](https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa) - Solving a Binary Classification Problem
+* [PyTorch](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html) - Transfer Learning for Computer Vision Tutorial
